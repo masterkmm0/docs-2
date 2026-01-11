@@ -34,6 +34,9 @@ The sample code has an `appsettings.json` file which configures it to use the co
 ```
 
 ## Validate Access Tokens
+// Disable Auth Account End-User;
+// End;
+// Dialog window;
 
 ### Install dependencies
 
